@@ -1,0 +1,56 @@
+
+td{
+    width:100px;
+    height:100px;
+    text-align: center;
+    font:normal 50px Arial black;
+
+}
+div{
+    position: absolute;
+
+}
+div#teste{
+    position: relative;
+    width: 350px;
+    height: 350px;
+    margin: 0 auto;
+    margin-top: 100px;
+}
+div#result{
+    width: 100%;
+    height: 100%;
+    font: normal 80px Arial black;
+    position: relative;
+    text-align: center;
+
+
+}
+
+/*COlUNAS*/
+
+.colunas{
+    width: 3px;
+    background-color:black;
+    height: 320px;
+}
+
+div#c1{
+    margin-left: 102px;
+}
+div#c2{
+    margin-left: 209px;
+}
+/*LINHAS*/
+
+.linhas{
+    width: 320px;
+    height: 3px;
+    background-color: black;
+}
+div#l1{
+    margin-top: 102px;
+}
+div#l2{
+    margin-top: 209px;
+}
